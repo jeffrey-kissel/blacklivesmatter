@@ -1,7 +1,7 @@
 # blacklivesmatter
 
 
-"You should have a record."
+"You should have a record!"
 
 That's how this works.
 If there was something in [a person's] past that could explain or show that [they were] a bad kid, that [they] had a record; that [they'd] been in trouble before, then [the police] could win the argument.

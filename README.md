@@ -1,6 +1,6 @@
 # blacklivesmatter
 
-
+%% Jun 10 2020
 "You should have a record."
 
 That's how this works.
@@ -10,5 +10,7 @@ If there was something in [a person's] past that could explain or show that [the
 [Paraphrased] from Khalil Gigbran Muhammad, author of "The condemnation of Blackness: Race, Crime, and the Making of Modern Urban America."
 Quoted from Throughline. "American Police" Podcast, Jun 03 2020.
 
+%% Jun 06 2020
+Initial commit.
 Fist.svg courtesy of wikicommons.
-    https://commons.wikimedia.org/wiki/File:Fist.svg
+https://commons.wikimedia.org/wiki/File:Fist.svg

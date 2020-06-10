@@ -1,0 +1,36 @@
+"Bureau of Justice Statistics",,,,,,,,,,
+"filename:  P9821.csv",,,,,,,,,,
+"table #: 21",,,,,,,,,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,,,,,,,,
+"data sources:  National Prisoners Statistics",,,,,,,,,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,,,,,,,,
+"date of version:  08/15/99",,,,,,,,,,
+,,,,,,,,,,
+"Table 21.  Time served since admission and time expected to be served until release,",,,,,,,,,,
+"by inmates held in State prison, 1991 and 1997",,,,,,,,,,
+,,,,,,,,,,
+,,,,,"Remaining time",,,,"Estimated total time",
+,"Time served since",,,,"expected to be served",,,,"expected to be served ",
+,"admission /a",,,,"until release /b",,,,"on current sentence /c",
+,1997,1991,,,1997,1991,,,1997,1991
+,,,,,,,,,,
+"     Total",100,100,,"    Total",100,100,,"     Total",100,100
+,,,,,,,,,,
+"< 12 months",18.8,31.0,,"<6 months",21.9,24.1,,"<24 months",17.5,25.8
+"12 to 35",33.9,40.1,,"6 to 12",17.8,17.4,,"24 to 47",20.6,23.5
+"36 to 59",19.3,13.1,,"13 to 59",33.5,33.0,,"48 to 71",15.1,12.7
+"60 to 119",18.7,11.6,,"60 to 119",9.6,8.1,,"72 to 119",16.4,12.5
+"120 to 179",5.6,3.2,,"120 to 239",5.5,4.3,,"120 to 179",9.3,7.4
+"180 to 239",2.7,0.9,,"240 or more",2.7,2.0,,"180 to 239",5.0,3.5
+"240 or more",1.1,0.2,,"Life",3.2,2.3,,"240 or more",7.0,4.0
+,,,,"Don't know",5.8,8.8,,"Life",3.2,2.2
+,,,,,,,,"Don't know",5.9,8.4
+,,,,,,,,,,
+"Note: Data are based on the 1991 and 1997 Survey of Inmates in State Correctional Facilities.",,,,,,,,,,
+"a/Includes time served in local jails that was credited to the prison sentence and prior prison",,,,,,,,,,
+"time served by returned parole violators.",,,,,,,,,,
+"b/Based on the time served from date of interview to the expected date of release as ",,,,,,,,,,
+"reported by each inmate.",,,,,,,,,,
+"c/Based on the time served when interviewed plus time to be served until the expected",,,,,,,,,,
+"date of release.",,,,,,,,,,

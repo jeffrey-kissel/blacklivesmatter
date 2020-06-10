@@ -1,0 +1,43 @@
+"Bureau of Justice Statistics",
+"filename:  P9810.csv",
+"table #: 10",
+"report title:  Prisoners in 1998; NCJ#: 175687",
+"data sources:  National Prisoners Statistics",
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",
+"date of version:  08/15/99",
+,
+"Table 10.  State prison population as a percent",
+"of capacity, yearend 1998",
+,
+,"State"
+,"prisons /a"
+,
+"Highest capacity",1007153
+"Lowest capacity",933478
+,
+"Net change in capacity, 1997-98",
+"Highest",59403
+"Lowest ",58686
+,
+"Population as a percent of capacity/b",
+"Highest",
+1990,115
+1995,114
+1996,116
+1997,115
+1998,113
+,
+"Lowest",
+1990,127
+1995,125
+1996,124
+1997,124
+1998,122
+"Note: States were asked to report their rated, ",
+"operational, and design capacities.  Data reflect",
+"the highest and lowest of the three capacities.",
+"a/Data include estimated capacity figures for ",
+"Connecticut at yearend 1995-98.",
+"b/Excludes inmates sentenced to prison but held",
+"in local jails because of crowding.",

@@ -1,0 +1,90 @@
+"Bureau of Justice Statistics",,,,,,,,
+"filename:  P9803.csv",,,,,,,,
+"table #: 3",,,,,,,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,,,,,,
+"data sources:  National Prisoners Statistics",,,,,,,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,,,,,,
+"date of version:  08/15/99",,,,,,,,
+,,,,,,,,
+"Table 3. Prisoners under the jurisdiction of State or Federal correctional",,,,,,,,
+"authorities, by region and jurisdiction, yearend 1997 and 1998",,,,,,,,
+,,,,,,,,
+,,"Total",,,"Sentenced to more than 1 year",,,"Incar-"
+,,,"Percent",,,,"Percent","ceration"
+"Region and","Advance",,"change,",,"Advance",,"change,","rate"
+"jurisdiction",1998,1997,"1997-98",,1998,1997,"1997-98","1998/a"
+,,,,,,,,
+"    U.S. total",1302019,1242153,4.8,,1252830,1195498,4.8,461
+,,,,,,,,
+"Federal",123041,112973,8.9,,103682,94987,9.2,38
+"State",1178978,1129180,4.4,,1149148,1100511,4.4,423
+,,,,,,,,
+"Northeast",178225,171237,4.1,,169731,162744,4.3,328
+"Connecticut /b",17605,17241,2.1,,12193,11920,2.3,372
+"Maine",1612,1620,(0.5),,1562,1542,1.3,125
+"Massachusetts /c",11832,11947,(1.0),,10739,10847,(1.0),275
+"New Hampshire",2169,2168,0.0,,2169,2168,0.0,182
+"New Jersey /e",31121,28361,9.7,,31121,28361,9.7,382
+"New York",72638,70295,3.3,,72289,70021,3.2,397
+"Pennsylvania",36377,34964,4.0,,36373,34957,4.1,303
+"Rhode Island /b",3445,3371,2.2,,2175,2100,3.6,220
+"Vermont /b",1426,1270,12.3,,1110,828,34.1,188
+,,,,,,,,
+"Midwest",228177,218369,4.5,,226788,217383,4.3,360
+"Illinois /d /e",43051,40788,5.5,,43051,40788,5.5,357
+"Indiana",19197,17903,7.2,,19016,17730,7.3,321
+"Iowa /d /e",7394,6938,6.6,,7394,6938,6.6,258
+"Kansas /e",8183,7911,3.4,,8183,7911,3.4,310
+"Michigan",45879,44771,2.5,,45879,44771,2.5,466
+"Minnesota",5572,5326,4.6,,5557,5306,4.7,117
+"Missouri",24974,23998,4.1,,24949,23998,4.0,457
+"Nebraska",3676,3402,8.1,,3588,3329,7.8,215
+"North Dakota",915,797,14.8,,814,715,13.8,128
+"Ohio /e",48450,48016,0.9,,48450,48016,0.9,432
+"South Dakota",2435,2242,8.6,,2430,2242,8.4,329
+"Wisconsin",18451,16277,13.4,,17477,15639,11.8,334
+,,,,,,,,
+"South",511525,490493,4.3,,499184,479278,4.2,520
+"Alabama",23326,22290,4.6,,22655,21680,4.5,519
+"Arkansas",10638,10021,6.2,,10561,9936,6.3,415
+"Delaware /b",5558,5435,2.3,,3211,3264,(1.6),429
+"Dist. of Columbia /b",9949,9353,6.4,,9949,9353,6.4,1913
+"Florida /d",67224,64626,4.0,,67193,64574,4.1,447
+"Georgia /d",39262,36505,7.6,,38758,35787,8.3,502
+"Kentucky",14987,14600,2.7,,14987,14600,2.7,379
+"Louisiana",32227,29265,10.1,,32227,29265,10.1,736
+"Maryland",22572,22232,1.5,,21540,21088,2.1,418
+"Mississippi",16678,14296,16.7,,15855,13676,15.9,574
+"North Carolina",31811,31612,0.6,,27193,27567,(1.4),358
+"Oklahoma /e",20892,20542,1.7,,20892,20542,1.7,622
+"South Carolina",22115,21173,4.4,,21236,20264,4.8,550
+"Tennessee /e",17738,16659,6.5,,17738,16659,6.5,325
+"Texas /e",144510,140351,3.0,,144510,140351,3.0,724
+"Virgina",28560,28385,0.6,,27191,27524,(1.2),399
+"West Virginia",3478,3148,10.5,,3478,3148,10.5,192
+,,,,,,,,
+"West",261051,249081,4.8,,253445,241106,5.1,417
+"Alaska /b",4097,4165,(1.6),,2541,2571,(1.2),413
+"Arizona /d",25311,23484,7.8,,23955,22353,7.2,507
+"Callifornia",161904,155790,3.9,,159109,152739,4.2,483
+"Colorado",14312,13461,6.3,,14312,13461,6.3,357
+"Hawaii /b",4924,4978,(1.1),,3670,3448,6.4,307
+"Idaho",4083,3911,4.4,,4083,3911,4.4,330
+"Montana",2734,2517,8.6,,2734,2517,8.6,310
+"Nevada",9651,9024,6.9,,9651,9024,6.9,542
+"New Mexico",4985,4688,6.3,,4732,4450,6.3,271
+"Oregon",8927,7999,11.6,,8596,7589,13.3,260
+"Utah",4391,4301,2.1,,4337,4280,1.3,205
+"Washington",14161,13214,7.2,,14154,13214,7.1,247
+"Wyoming",1571,1549,1.4,,1571,1549,1.4,327
+,,,,,,,,
+"Note: Negative numbers are in parentheses.",,,,,,,,
+"/a The number of prisoners with a sentence of more than 1 year per 100,000",,,,,,,,
+"in the resident population.",,,,,,,,
+"/b Prisons and jails form an integrated system.  Data include total jail and prison population.  ",,,,,,,,
+"/c The incarceration rate includes an estimated 6,200 inmates sentenced to more than 1 year",,,,,,,,
+"but held in local jails and houses of corrections.",,,,,,,,
+"/d Population figures are based on custody counts.",,,,,,,,
+"/e Population counts for inmates ""sentenced to more than 1 year"" include an undetermined",,,,,,,,
+"number of inmates ""sentenced to 1 year or less.""",,,,,,,,

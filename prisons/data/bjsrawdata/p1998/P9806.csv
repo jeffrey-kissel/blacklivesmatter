@@ -1,0 +1,36 @@
+"Bureau of Justice Statistics",,
+"filename:  P9806.csv",,
+"table #: 6",,
+"report title:  Prisoners in 1998; NCJ#: 175687",,
+"data sources:  National Prisoners Statistics",,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,
+"date of version:  08/15/99",,
+,,
+"Table 6.  Prisoners under the ",,
+"jurisdiction of State or Federal ",,
+"correctional authorities, by sex",,
+"of inmate, yearend 1990, 1997, and 1998",,
+,,
+,"Men","Women"
+"All inmates",,
+"Advance 1998",1217592,84427
+"Final 1997",1162885,79268
+"Final 1990",729840,44065
+"Percent change, ",,
+"1997-98",4.7,6.5
+"Average annual",,
+"1990-98",6.6,8.5
+,,
+"Sentenced to more  than 1 year",,
+"Advance 1998",1174124,78706
+"Final 1997",1121663,73835
+"Percent change, ",,
+"1997-98",4.7,6.6
+,,
+"Incarceration rate*  ",,
+"1998",885,57
+1990,572,32
+"*The number of prisoners with sentences",,
+"of more than 1 year per 100,000 residents",,
+"on December 31.",,

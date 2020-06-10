@@ -1,0 +1,25 @@
+"Bureau of Justice Statistics",,,,,,,,
+"filename:  P9811.csv",,,,,,,,
+"table #: 11",,,,,,,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,,,,,,
+"data sources:  National Prisoners Statistics",,,,,,,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,,,,,,
+"date of version:  08/15/99",,,,,,,,
+,,,,,,,,
+"Table 11.  Number of sentenced prisoners under State",,,,,,,,
+"or Federal jurisdiction, by gender and race, 1990, 1995-97",,,,,,,,
+,,,,,,,,
+,,,"Males",,,,"Females",
+"Year","Total","All /a","White /b","Black /b",,"All /a","White /b","Black /b"
+,,,,,,,,
+1990,739980,699416,350700,340300,,40564,20200,19700
+,,,,,,,,
+1995,1085022,1021059,487400,509800,,63963,30500,31900
+1996,1137722,1068123,511300,528600,,69599,33800,34000
+1997,1195498,1121663,541700,548900,,73835,36300,35500
+"Note: Previous estimates for 1996 by gender and race have been revised.",,,,,,,,
+"Sentenced prisoners are those with a sentence of more than 1 year.",,,,,,,,
+"a/Includes Asians, Pacific Islanders, American Indians, Alaska Natives, and",,,,,,,,
+"other racial groups.",,,,,,,,
+"b/The numbers for gender and race were estimated and rounded to the nearest 100.",,,,,,,,

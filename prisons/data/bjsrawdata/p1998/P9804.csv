@@ -1,0 +1,85 @@
+"Bureau of Justice Statistics",,,
+"filename:  P9804.csv",,,
+"table #: 4",,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,
+"data sources:  National Prisoners Statistics",,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,
+"date of version:  08/15/99",,,
+,,,
+"Table 4. Change in the number of sentenced prisoners",,,
+"under the jurisdiction of State or Federal correctional",,,
+"authorities, 1990-98",,,
+,,,
+,,,"Average"
+"Region and","Population","Percent","annual per-"
+"jurisdiction","difference","change","cent change"
+,,,
+"    U.S. total ",505712,67.7,6.7
+,,,
+"Federal",53279,105.7,9.4
+"State",452433,64.9,6.5
+,,,
+"Northeast",50668,42.6,4.5
+"Connecticut ",4422,56.9,5.8
+"Maine",82,5.5,0.7
+"Massachusetts /a",2840,36.0,3.9
+"New Hampshire",827,61.6,6.2
+"New Jersey",9993,47.3,5.0
+"New York",17394,31.7,3.5
+"Pennsylvania",14092,63.2,6.3
+"Rhode Island ",589,37.1,4.0
+"Vermont",429,63.0,6.3
+,,,
+"Midwest",81207,55.8,5.7
+"Illinois",15535,56.5,5.8
+"Indiana /a",6401,50.7,5.3
+"Iowa",3427,86.4,8.1
+"Kansas ",2408,41.7,4.5
+"Michigan /a",11612,33.9,3.7
+"Minnesota",2381,75.0,7.2
+"Missouri",10006,67.0,6.6
+"Nebraska",1302,57.0,5.8
+"North Dakota",379,87.1,8.1
+"Ohio",16628,52.3,5.4
+"South Dakota",1089,81.2,7.7
+"Wisconsin",10039,"--    ","--    "
+,,,
+"South",216593,76.6,7.4
+"Alabama",7290,47.4,5.0
+"Arkansas",3287,45.2,4.8
+"Delaware",970,43.3,4.6
+"Dist. of Columbia /a",3151,46.4,4.9
+"Florida",22813,51.4,5.3
+"Georgia",17087,78.8,7.5
+"Kentucky",5964,66.1,6.5
+"Louisiana",13628,73.3,7.1
+"Maryland",4806,28.7,3.2
+"Mississippi",7771,96.1,8.8
+"North Carolina /a",9429,53.1,5.5
+"Oklahoma",8607,70.1,6.9
+"South Carolina",5028,31.0,3.4
+"Tennessee",7350,70.8,6.9
+"Texas /b",87726,154.5,12.4
+"Virgina",9773,56.1,5.7
+"West Virginia",1913,122.2,10.5
+,,,
+"West",103965,69.6,6.8
+"Alaska",690,37.3,4.0
+"Arizona ",10174,73.8,7.2
+"Callifornia /a",64987,69.0,6.8
+"Colorado",6641,86.6,8.1
+"Hawaii",1962,114.9,10.0
+"Idaho",2122,108.2,9.6
+"Montana",1309,91.9,8.5
+"Nevada",3828,65.7,6.5
+"New Mexico",1665,54.3,5.6
+"Oregon",2104,32.4,3.6
+"Utah",1863,75.3,7.3
+"Washington",6159,77.0,7.4
+"Wyoming /a",461,41.5,4.4
+,,,
+"--Not calculated because of significant changes in reporting procedures.",,,
+"a/ Growth may be slightly overestimated due to a change in",,,
+"reporting from custody to jurisdiction counts.",,,
+"b/ Includes 6,742 ""paper-ready"" State inmates in held in local jails in1990.",,,

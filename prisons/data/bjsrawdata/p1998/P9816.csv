@@ -1,0 +1,43 @@
+"Bureau of Justice Statistics",,,,,,,,
+"filename:  P9816.csv",,,,,,,,
+"table #: 16",,,,,,,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,,,,,,
+"data sources:  National Prisoners Statistics",,,,,,,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,,,,,,
+"date of version:  08/15/99",,,,,,,,
+,,,,,,,,
+"Table 16.  Estimated number of sentenced prisoners under State jurisdiction,",,,,,,,,
+"by offense, gender, race, and Hispanic origin, 1997",,,,,,,,
+,,,,,,,,
+"Offenses","All",,"Male","Female",,"White","Black","Hispanic"
+"Total",1100500,,1033200,67300,,366500,511700,186900
+,,,,,,,,
+"Violent offenses",519800,,501100,18700,,172300,246900,81400
+"Murder /a",128700,,123100,5600,,41200,63900,20000
+"Manslaughter",17400,,15700,1700,,6100,7200,3300
+"Rape",28200,,27900,300,,12800,11700,2200
+"Other sexual assault",65800,,65200,600,,38900,16100,8200
+"Robbery",155600,,150900,4700,,32200,94500,24000
+"Assault",102900,,98400,4500,,31800,46100,20300
+"Other violent /b",21200,,19900,1300,,9300,7600,3400
+,,,,,,,,
+"Property offenses",241900,,224000,17900,,103700,97600,34400
+"Burglary",117600,,114300,3300,,49900,48100,16600
+"Larceny",46200,,40300,5900,,17500,20700,6400
+"Motor vehicle theft",20300,,19500,800,,7900,7300,4600
+"Fraud ",29500,,22600,6900,,15400,10800,2800
+"Other property /c",28300,,27300,1000,,13000,10700,3900
+,,,,,,,,
+"Drug offenses",227400,,203900,23500,,43200,127700,51200
+,,,,,,,,
+"Public-order offenses /d",108700,,101600,7100,,46800,38000,19300
+,,,,,,,,
+"Other/unspecified /e",2700,,2600,100,,500,1400,600
+"Note: Data are for inmates with a sentence of more than 1 year under the jurisdiction of State correctional",,,,,,,,
+"authorities.  The number of inmates by offense were estimated using the 1997 Survey of Inmates in State",,,,,,,,
+"Correctional Facilities and rounded to the nearest 100.",,,,,,,,
+"a/Includes nonnegligent manslaughter.",,,,,,,,
+"b/Includes weapons, drunk driving, court offenses, commercialized vice, morals and decency charges,",,,,,,,,
+"liquor law violations, and other public-order offenses.",,,,,,,,
+"c/Includes juvenile offenses and unspecified felonies.",,,,,,,,

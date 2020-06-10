@@ -1,0 +1,21 @@
+"Bureau of Justice Statistics",,,,,,,,
+"filename:  P9817.csv",,,,,,,,
+"table #: 17",,,,,,,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,,,,,,
+"data sources:  National Prisoners Statistics",,,,,,,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,,,,,,
+"date of version:  08/15/99",,,,,,,,
+,,,,,,,,
+"Table 17. Partitioning the total growth of sentenced prisoners under State jurisdiction,",,,,,,,,
+"by offense and gender, 1990-97",,,,,,,,
+,,,,,,,,
+,"All  prisoners",,,"Male",,,"Female",
+,"Increase,","Percent ",,"Increase,","Percent ",,"Increase,","Percent "
+,"1990-97","of total",,"1990-97","of total",,"1990-97","of total"
+"   Total",410900,100,,380400,100,,30600,100
+,,,,,,,,
+"Violent",203900,50,,196300,52,,7600,25
+"Property",66900,16,,60700,16,,6200,20
+"Drug ",77700,19,,66000,17,,11700,38
+"Public-order ",62900,15,,57700,15,,5200,17

@@ -1,0 +1,81 @@
+"Bureau of Justice Statistics",,,,,,
+"filename:  P9809.csv",,,,,,
+"table #: 9",,,,,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,,,,
+"data sources:  National Prisoners Statistics",,,,,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,,,,
+"date of version:  08/15/99",,,,,,
+,,,,,,
+"Table 9. Reported Federal and State prison capacities, yearend 1998",,,,,,
+,,,,,,
+,"   Type of capacity measure",,,,"Population as a percent of",
+,," Opera-",,,"Highest","Lowest"
+"Jurisdiction","Rated"," tional","Design",,"capacity /a","capacity /a"
+,,,,,,
+"Federal /b",86315,"  ...","  ...",,127,127
+,,,,,,
+"Northeast",,,,,,
+"Connecticut /c","  ...","  ...","  ...",,"  ...","  ..."
+"Maine",1460,1629,1460,,99,110
+"Massachusetts","  ...","  ...",9162,,122,122
+"New Hampshire",1841,1864,1744,,109,117
+"New Jersey /b","  ...","  ...",17282,,158,158
+"New York",60879,65717,53409,,107,132
+"Pennsylvania /b",24247,30992,24247,,117,150
+"Rhode Island ",3858,3858,3858,,89,89
+"Vermont",1140,1140,1023,,103,115
+,,,,,,
+"Midwest",,,,,,
+"Illinois",32062,32062,27342,,134,157
+"Indiana",13983,17119,"  ...",,101,123
+"Iowa",5701,5701,5701,,130,130
+"Kansas ",8189,"  ...","  ...",,100,100
+"Michigan /b","  ...",44804,"  ...",,99,99
+"Minnesota /b",5567,5724,5724,,96,99
+"Missouri /b","  ...",26302,"  ...",,95,95
+"Nebraska /b","  ...",2963,2371,,124,155
+"North Dakota /b",1005,952,1005,,84,89
+"Ohio ",37245,"  ...","  ...",,130,130
+"South Dakota /b","  ...",2470,"  ...",,99,99
+"Wisconsin /b","  ...",11136,"  ...",,136,136
+,,,,,,
+"South",,,,,,
+"Alabama",21800,21800,21800,,100,100
+"Arkansas /b",10208,10208,10208,,100,100
+"Delaware /b","  ...",4206,3192,,125,165
+"Dist. of Columbia /d",7973,7289,"  ...",,91,100
+"Florida /b",77370,70785,52407,,87,128
+"Georgia /b","  ...",39320,"  ...",,100,100
+"Kentucky",11428,11180,7421,,122,187
+"Louisiana /b",19016,18975,"  ...",,100,100
+"Maryland /b","  ...",22688,"  ...",,99,99
+"Mississippi /b","  ...",13916,14649,,103,108
+"North Carolina /b",27866,"  ...",27866,,113,113
+"Oklahoma","  ...",21578,"  ...",,93,93
+"South Carolina /b","  ...",22595,21265,,96,102
+"Tennessee /b",16130,15778,"  ...",,97,99
+"Texas ",148756,148756,151430,,95,97
+"Virgina /b",29171,29171,29171,,90,90
+"West Virginia",2698,2827,2695,,100,105
+,,,,,,
+"West",,,,,,
+"Alaska",2603,2691,2603,,119,123
+"Arizona ","  ...",23036,23036,,110,110
+"California ","  ...","  ...",79875,,203,203
+"Colorado /b","  ...",9842,8037,,118,144
+"Hawaii ","  ...",3122,2197,,120,171
+"Idaho /b",3167,3991,3167,,95,120
+"Montana","  ...",1748,1244,,126,178
+"Nevada /b",9251,"  ...",6820,,104,142
+"New Mexico","  ...",3447,"  ...",,109,109
+"Oregon /b","  ...",8646,"  ...",,102,102
+"Utah","  ...",4280,4462,,81,84
+"Washington /b",8902,11575,11575,,122,159
+"Wyoming",1231,1243,1047,,115,137
+,,,,,,
+"...Data not available.",,,,,,
+"a/Population counts exclude jail backups and inmates held in other States.",,,,,,
+"b/See NPS jurisdcition notes.",,,,,,
+"c/Connecticut no longer reports capacity because of a law passed in 1995.",,,,,,
+"d/Excludes DC inmates held in State or Federal facilities.",,,,,,

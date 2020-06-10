@@ -1,0 +1,23 @@
+"Bureau of Justice Statistics",,,,,,,
+"filename:  P9814.csv",,,,,,,
+"table #: 14",,,,,,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,,,,,
+"data sources:  National Prisoners Statistics",,,,,,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,,,,,
+"date of version:  08/15/99",,,,,,,
+,,,,,,,
+"Table 14.  Number of sentenced  American Indian prisoners",,,,,,,
+"under State or Federal jurisdiction, by gender, 1990, 1995 -97",,,,,,,
+,,,,,,,
+,"Number of sentenced",,,,"Sentenced prisoners per 100,000 ",,
+,"American Indian prisoners",,,,"American Indian residents",,
+"Year","Total","Male","Female",,"Total","Male","Female"
+1990,6000,5600,400,,275,516,35
+,,,,,,,
+1995,9800,9000,800,,419,769,72
+1996,11000,10000,900,,462,850,77
+1997,11900,10900,1000,,492,905,80
+"Note: The number of American Indian inmates was based on reports in NPS, which",,,,,,,
+"exclude those held in detention facilities in Indian country.  The number with sentences ",,,,,,,
+"sentences of more than 1 year have been estimated and rounded to the nearest 100.",,,,,,,

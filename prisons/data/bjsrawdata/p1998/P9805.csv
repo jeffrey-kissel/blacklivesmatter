@@ -1,0 +1,46 @@
+"Bureau of Justice Statistics",,,,,,,,,,
+"filename:  P9805.csv",,,,,,,,,,
+"table #: 5",,,,,,,,,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,,,,,,,,
+"data sources:  National Prisoners Statistics",,,,,,,,,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,,,,,,,,
+"date of version:  08/15/99",,,,,,,,,,
+,,,,,,,,,,
+"Table 5. The 10 highest and lowest jurisdictions for selected characteristics",,,,,,,,,,
+"of the prison populations, yearend 1998",,,,,,,,,,
+,,,,,,,,,,"Average"
+"Prison","Number of ",,"Incarceration","Rate per 100,000",,"1- year growth","Percent",,"Growth since","percent"
+"population","inmates",,"rates, 1998","State residents /a",,"1997-98","change",,"1990","change /b"
+,,,,,,,,,,
+"10 highest:",,,,,,,,,,
+,,,,,,,,,,
+"California",161904,,"Louisiana",736,,"Mississippi",16.7,,"Texas",12.4
+"Texas ",144510,,"Texas",724,,"North Dakota",14.8,,"West Virginia",10.5
+"Federal",123041,,"Oklahoma",622,,"Wisconsin",13.4,,"Hawaii",10.0
+"New York",72638,,"Mississippi",574,,"Vermont",12.3,,"Idaho",9.6
+"Florida",67224,,"South Carolina",550,,"Oregon",11.6,,"Federal",9.4
+"Ohio",48450,,"Nevada",542,,"West Virgina",10.5,,"Mississippi",8.8
+"Michigan",45879,,"Alabama",519,,"Louisiana",10.1,,"Montana",8.5
+"Illinois",43051,,"Arizona",507,,"New Jersey",9.7,,"North Dakota",8.1
+"Georgia",39252,,"Georgia",502,,"Federal",8.9,,"Colorado",8.1
+"Pennsylvania",36377,,"California",483,,"South Dakota",8.6,,"Iowa",8.1
+,,,,,,,,,,
+"10 lowest:",,,,,,,,,,
+,,,,,,,,,,
+"North Dakota",915,,"Minnesota",117,,"Alaska","(1.6)",,"Maine",0.7
+"Vermont",1426,,"Maine",125,,"Hawaii","(1.1)",,"Maryland",3.2
+"Wyoming",1571,,"North Dakota",128,,"Massachusetts","(1.0)",,"South Carolina",3.4
+"Maine",1612,,"New Hampshire",182,,"Maine","(0.5)",,"New York",3.5
+"New Hampshire",2169,,"Vermont",188,,"New Hampshire",0.0,,"Oregon",3.6
+"South Dakota",2435,,"West Virginia",192,,"North Carolina ",0.6,,"Michigan",3.7
+"Montana",2734,,"Utah",205,,"Virginia",0.6,,"Massachusetts",3.9
+"Rhode Island",3445,,"Nebraska",215,,"Ohio",0.9,,"Rhode Island",4.0
+"West Virginia",3478,,"Rhode Island",220,,"Wyoming",1.4,,"Alaska",4.0
+"Nebraska",3676,,"Washington",247,,"Mississippi",1.5,,"Wyoming",4.4
+,,,,,,,,,,
+"Note: Negative numbers are in parentheses.",,,,,,,,,,
+"a/The number of prisoners with a sentence of more than 1 year per 100,000 residents",,,,,,,,,,
+"in the State population.  The Federal Bureau of Prisons and the District of Columbia",,,,,,,,,,
+"are excluded.",,,,,,,,,,
+"b/The average annual percent change from 1990 to 1998.",,,,,,,,,,

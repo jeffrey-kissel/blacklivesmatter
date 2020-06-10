@@ -1,0 +1,30 @@
+"Bureau of Justice Statistics",,,
+"filename:  P9819.csv",,,
+"table #: 19",,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,
+"data sources:  National Prisoners Statistics",,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,
+"date of version:  08/15/99",,,
+,,,
+"Table 19.  Number of sentenced inmates admitted",,,
+"to State prison, by type of admission, 1990-97",,,
+,,,
+,,"New court","Parole"
+"Year","All admissions","commitments","violators"
+1990,460739,323069,133870
+1991,466286,317237,142100
+1992,480676,334301,141961
+1993,475100,318069,146366
+1994,498919,322141,168383
+,,,
+1995,521970,337492,175726
+1996,512618,326547,172633
+1997,538375,334525,186659
+,,,
+"Percent change,",,,
+"1990-97",16.9,3.5,39.4
+"Note: Sentenced inmates are those with a sentence of more than",,,
+"1 year.  Admissions exclude returned escapees and AWOL's ",,,
+"and transfers from other jurisdictions.  Admissions for Alaska",,,
+"were estimated for 1994.",,,

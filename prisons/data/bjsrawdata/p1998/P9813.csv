@@ -1,0 +1,25 @@
+"Bureau of Justice Statistics",,,,,,,
+"filename:  P9813.csv",,,,,,,
+"table #: 13",,,,,,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,,,,,
+"data sources:  National Prisoners Statistics",,,,,,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,,,,,
+"date of version:  08/15/99",,,,,,,
+,,,,,,,
+"Table 13.  Number of sentenced Hispanic prisoners",,,,,,,
+"under State or Federal jurisdiction, by gender, 1990, 1995 -97",,,,,,,
+,,,,,,,
+,"Number of sentenced",,,,"Sentenced prisoners per 100,000 ",,
+,"Hispanic prisoners",,,,"Hispanic residents",,
+"Year","Total","Male","Female",,"Total","Male","Female"
+,,,,,,,
+1990,130000,123500,6500,,548,1016,56
+,,,,,,,
+1995,190100,181300,8800,,675,1264,64
+1996,200400,189300,11100,,688,1279,78
+1997,213100,200300,12800,,698,1272,87
+"Note: Sentenced prisoners are those with a sentence of more than 1 year.  The ",,,,,,,
+"total number of Hispanic inmates was estimated in each year by multiplying",,,,,,,
+"the percent identifying as Hispanic in the 1991 and 1997 surveys by the NPS",,,,,,,
+"sentenced inmate counts.  Estimates have been rounded to the nearest 100.",,,,,,,

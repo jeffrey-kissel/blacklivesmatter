@@ -1,0 +1,29 @@
+"Bureau of Justice Statistics",,,,,,,,,
+"filename:  P9815.csv",,,,,,,,,
+"table #: 15",,,,,,,,,
+"report title:  Prisoners in 1998; NCJ#: 175687",,,,,,,,,
+"data sources:  National Prisoners Statistics",,,,,,,,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,,,,,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,,,,,,,
+"date of version:  08/15/99",,,,,,,,,
+,,,,,,,,,
+"Table 15. Number of sentenced prisoners under State or Federal jurisdiction",,,,,,,,,
+"per 100,000 residents, by gender, race, Hispanic origin, and age, 1997",,,,,,,,,
+,,,,,,,,,
+,"Number of sentenced prisoners per 100,000 residents of each group",,,,,,,,
+,,"Males",,,,,"Females",,
+"Age","Total /a","White /b","Black /b","Hispanic",,"Total /a","White /b","Black /b","Hispanic"
+"Total",841,386,3209,1273,,53,25,200,87
+,,,,,,,,,
+"18-19",776,274,2587,1184,,28,17,83,30
+"20-24",1956,789,6999,2603,,78,41,215,128
+"25-29",2143,868,8630,2703,,134,58,452,210
+"30-34",2002,950,7485,2587,,176,83,650,235
+"35-39",1682,806,6814,2207,,141,66,546,213
+"40-44",1257,615,4841,2217,,82,37,337,131
+"45-54",700,394,2775,1263,,42,21,154,99
+"55 or older",155,100,509,394,,5,4,20,10
+"Note: Based on estimates of the U.S. resident  population on July 1, 1997, and adjusted for the 1990",,,,,,,,,
+"census undercount.",,,,,,,,,
+"a/Includes Asians, Pacific Islanders, American Indians, Alaska Natives, and other racial groups.",,,,,,,,,
+"b/Excludes Hispanics.",,,,,,,,,

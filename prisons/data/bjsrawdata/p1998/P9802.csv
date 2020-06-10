@@ -1,0 +1,31 @@
+"Bureau of Justice Statistics",,,
+"filename:  P9802.csv",,,
+"table #: 2",,,
+"report title:  Prisoners in 1998; NCJ#:  175687",,,
+"data sources:  National Prisoners Statistics",,,
+"authors:  Allen J. Beck, Ph.D. and Christopher J. Mumola",,,
+"Refer questions to:  askbjs@ojp.usdoj.gov or 202-307-0765",,,
+"date of version:  08/15/99",,,
+,,,
+"Table 2.  Change in the State and ",,,
+"Federal prison populations, 1990-98",,,
+,,"    Annual increase",
+,,,"Annual"
+,"Number",,"percent"
+"Year","of inmates","Number","change"
+,,,
+1990,773919,,
+1991,825559,51640,6.7
+1992,882500,56941,6.9
+"1993*",970444,64992,7.4
+1994,1054702,84258,8.7
+1995,1125874,71172,6.7
+1996,1183368,57494,5.1
+1997,1242153,58785,5.0
+1998,1302019,59866,4.8
+,,,
+"Average annual ",,,
+"increase, 1990-98",,63144,6.7
+"Note: All counts are for December 31 of each year and ",,,
+"may reflect revisions of previously reported numbers.",,,
+"*See note in table 2 of ""Prisoners in 1998.""",,,

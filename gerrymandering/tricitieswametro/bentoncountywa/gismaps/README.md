@@ -9,3 +9,7 @@ off of
 https://www.co.benton.wa.us/pView.aspx?id=690&catid=45 
 
 https://bentonco.maps.arcgis.com/apps/MapSeries/index.html?appid=85029c8fdb784e1eb0bf08479d0cd595
+
+Census maps taken from 
+    https://2020census.gov/en/response-rates.html 
+zooming in on washington, then benton county, then "census tract."
